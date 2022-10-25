@@ -1,0 +1,545 @@
+{
+  "Products":{
+      "laptop":[
+          {
+                "image_url": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/computer/h/i/p/14s-dy5005tu-thin-and-light-laptop-hp-original-imagg4rc7n75zqkp.jpeg?q=70",
+                 "brand": "HP",
+                  "name": "Core i3 11th Gen",
+                  "price": 37023,
+                  "strikedPrice":47206 ,
+                   "offer": "21% off"
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kzogn0w0/computer/o/3/6/15-eg1000tx-thin-and-light-laptop-hp-original-imagbn4b6ht9xznp.jpeg?q=70",
+              "brand": " HP",
+              "name": " Pavilion Core i5 12th Gen",
+              "price": 62390 ,
+              "strikedPrice":75799 ,
+              "offer": "17% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/computer/h/i/p/14s-dy5005tu-thin-and-light-laptop-hp-original-imagg4rc7n75zqkp.jpeg?q=70",
+              "brand": "HP",
+              "name": "Core i3 11th Gen",
+              "price": 63320 ,
+              "strikedPrice":75899 ,
+              "offer": "18% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l5h2xe80/computer/e/i/d/15s-fr2511tu-thin-and-light-laptop-hp-original-imagg59a7s5kymvy.jpeg?q=70",
+              "brand": "HP",
+              "name": "Core i3 11th Gen",
+              "price": 45678 ,
+              "strikedPrice":54679 ,
+              "offer": "21% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l2ghgnk0/computer/t/g/j/14-ec1008au-thin-and-light-laptop-hp-original-imagdsx9uqnpahja.jpeg?q=70",
+              "brand": "HP",
+              "name": "Ryzen 5 Hexa Core 5500U ",
+              "price":46759 ,
+              "strikedPrice":57998 ,
+              "offer": "17% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/computer/q/j/c/-original-imagh3wecapg5gqn.jpeg?q=70",
+              "brand": "HP",
+              "name": "Athlon Dual Core 3050U",
+              "price": 69000 ,
+              "strikedPrice": 79000,
+              "offer": "10% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l1dwknk0/computer/e/u/0/inspiron-3525-notebook-dell-original-imagcyrebyny33kd.jpeg?q=70",
+              "brand": "DELL",
+              "name": " Inspiron Athlon Dual Core 3050U - (8 GB/256 GB SSD/Windows 11 Home) Inspiron 3525 Notebook",
+              "price": 45637 ,
+              "strikedPrice":67999 ,
+              "offer": "165 off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kt8zb0w0/computer/n/m/v/inspiron-3511-thin-and-light-laptop-dell-original-imag6n5kbmfcgxk6.jpeg?q=70",
+              "brand": "DELL",
+              "name": "Inspiron Core i3 11th Gen - (8 GB/1 TB HDD/256 GB)",
+              "price": 45689 ,
+              "strikedPrice":57890 ,
+              "offer": "21% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kp2y2kw0/computer/y/0/c/na-thin-and-light-laptop-asus-original-imag3ebnzawky4kn.jpeg?q=70",
+              "brand": "ASUS",
+              "name": "VivoBook 15",
+              "price": 67809 ,
+              "strikedPrice":78609 ,
+              "offer": "17% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kp2y2kw0/computer/3/q/k/lenovo-original-imag3eht25nykhjn.jpeg?q=70",
+              "brand": "Lenovo",
+              "name": "IdeaPad Gaming 3 Core",
+              "price": 44678 ,
+              "strikedPrice":65790 ,
+              "offer": "27% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kp5sya80/screen-guard/tempered-glass/o/v/n/apple-macbook-air-m1-13-3-inch-lightwings-original-imag3gh5xftgbpg3.jpeg?q=70",
+              "brand": "Apple",
+              "name": "Macbook Air M1",
+              "price": 45890,
+              "strikedPrice":56899 ,
+              "offer": "17% off" 
+          },
+           {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kyt0ya80/computer/b/v/q/na-thin-and-light-laptop-apple-original-imagaygvkp7pjexm.jpeg?q=70",
+              "brand": "Apple",
+              "name": "MacBook Air M1",
+              "price": 44336 ,
+              "strikedPrice":65999 ,
+              "offer": "27% off" 
+          }
+      ],
+      "Mobile":[
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l0tweq80/mobile/w/r/t/-original-imagcgtgwg5taegn.jpeg?q=70",
+              "brand": "MI",
+              "name": "REDMI 10",
+              "price": 13676 ,
+              "strikedPrice": 21050,
+              "offer": "33% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/p/8/u/9i-sport-mzb0a5iin-redmi-original-imag785qegs5ghyy.jpeg?q=70",
+              "brand": "MMI",
+              "name": "REDMI 9i Sport",
+              "price":12648 ,
+              "strikedPrice":18999 ,
+              "offer": "31% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l0tweq80/mobile/x/f/u/-original-imagcgtghym8theg.jpeg?q=70",
+              "brand": "MI",
+              "name": "REDMI 10",
+              "price": 13999 ,
+              "strikedPrice":19999 ,
+              "offer": "35% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/r/q/m/-original-imagca5ajerqpfjy.jpeg?q=70",
+              "brand": "Apple",
+              "name": "APPLE iPhone 13",
+              "price": 98078 ,
+              "strikedPrice":123083 ,
+              "offer": "23% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=70",
+              "brand": "Apple",
+              "name": "iPhone 11",
+              "price":  65098,
+              "strikedPrice":85790 ,
+              "offer": "31% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/a/m/7/iphone-13-mlpj3hn-a-apple-original-imag6vpyk3w4zarg.jpeg?q=70",
+              "brand": "Apple",
+              "name": "iPhone 13",
+              "price": 98678  ,
+              "strikedPrice":129404 ,
+              "offer": "19% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/n/p/d/apple-iphone-12-mini-dummyapplefsn-original-imafwgbfwkfrerak.jpeg?q=70",
+              "brand": "Apple",
+              "name": " iPhone 12 Mini",
+              "price": 85769 ,
+              "strikedPrice":104678 ,
+              "offer": "23% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/mobile/m/w/x/-original-imagfhu6bdzhnmkz.jpeg?q=70",
+              "brand": "SAMSUNG",
+              "name": "Galaxy F13",
+              "price": 21456  ,
+              "strikedPrice":28975 ,
+              "offer": "275 off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q=70",
+              "brand": "POCO",
+              "name": "POCO C31",
+              "price": 19685  ,
+              "strikedPrice":26758 ,
+              "offer": "25% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/o/l/j/-original-imagg2a4rmk94gay.jpeg?q=70",
+              "brand": "OnePlus",
+              "name": "OnePlus Nord CE 2 Lite",
+              "price":  24780,
+              "strikedPrice":38990 ,
+              "offer": "29% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/x/6/i/-original-imagg4kcj7ew4xgh.jpeg?q=70",
+              "brand": "vivo",
+              "name": "vivo V25 5G",
+              "price": 17568 ,
+              "strikedPrice":25648 ,
+              "offer": "31% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l1l1rww0/mobile/v/7/n/-original-imagd48zkjwujxzz.jpeg?q=70",
+              "brand": "MOTOROLA",
+              "name": "MOTOROLA e40 ",
+              "price":  12378,
+              "strikedPrice":18968 ,
+              "offer": "36% off" 
+          }
+      ],
+      "SmartTV":[
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/l/d/q/-original-imaggsnkparsege3.jpeg?q=70",
+              "brand": "Mi",
+              "name": "Mi X Series 125 cm(50 inch)",
+              "price": 15567 ,
+              "strikedPrice":30000 ,
+              "offer": "49% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/l47cu4w0/television/9/0/f/-original-imagf5qummst7t94.jpeg?q=70",
+              "brand": "SAMSUNG",
+              "name": "SAMSUNG Crystal 4K Neo",
+              "price": 23467 ,
+              "strikedPrice":26999 ,
+              "offer": "48% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/5/c/k/-original-imaggsnkne4n5mvh.jpeg?q=70",
+              "brand": "Mi",
+              "name": "Mi X Series 108 cm (43 inch)",
+              "price": 16980 ,
+              "strikedPrice":34500 ,
+              "offer": "63% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/v/2/b/-original-imaggjzuhzv6zhby.jpeg?q=70",
+              "brand": "Vu",
+              "name": "Vu Premium 108 cm (43 inch)",
+              "price": 25788 ,
+              "strikedPrice":45000 ,
+              "offer": "39% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/4/l/x/-original-imagj4u8znzfzxnz.jpeg?q=70",
+              "brand": "MOTOROLA",
+              "name": "MOTOROLA Revou 2 109 cm",
+              "price": 15677 ,
+              "strikedPrice":39009 ,
+              "offer": "67% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/3/k/y/-original-imaghu25jahgbhej.jpeg?q=70",
+              "brand": "iFFALCON",
+              "name": "iFFALCON by TCL K61 108 cm",
+              "price": 7849 ,
+              "strikedPrice": 14500,
+              "offer": "47% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/g/d/y/50x3-infinix-original-imaggfzdbstsqsgy.jpeg?q=70",
+              "brand": "Infinix",
+              "name": "Infinix X3 126 cm (50 inch)",
+              "price":  12000,
+              "strikedPrice":24000 ,
+              "offer": "50% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kuwzssw0/television/i/q/x/u-series-50-u1s-50uc1a00-oneplus-original-imag7xtnfn7yrfrn.jpeg?q=70",
+              "brand": "OnePlus",
+              "name": "OnePlus U1S 126 cm (50 inch)",
+              "price": 36280 ,
+              "strikedPrice": 68900,
+              "offer": "45% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/kuwzssw0/television/b/1/v/u-series-55-u1s-55uc1a00-oneplus-original-imag7xtnzgaaxqrg.jpeg?q=70",
+              "brand": "OnePlus",
+              "name": "OnePlus U1S 139 cm (55 inch)",
+              "price": 34556 ,
+              "strikedPrice":55060 ,
+              "offer": "41% off" 
+          },
+          {
+              "image_url": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/h/a/r/-original-imaghgphdj9fsvzt.jpeg?q=70",
+              "brand": "realme",
+              "name": "realme 80 cm (32 inch) HD",
+              "price": 13500 ,
+              "strikedPrice": 23400,
+              "offer": "31% off" 
+          }
+      ],
+     "HeadPhone":[
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/jyyqc280/headphone/q/w/v/dad-originals-bluetooth-original-imaf9frbhuhxmk4h.jpeg?q=70",
+          "brand": "boAt",
+          "name": " Airdopes 172",
+          "price": 1516 ,
+          "strikedPrice":3000 ,
+          "offer": "51% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/7/x/t/-original-imagg8mrbhdvhcsm.jpeg?q=70",
+          "brand": "boAt",
+          "name": "Airdopes 161",
+          "price": 1234 ,
+          "strikedPrice":2350 ,
+          "offer": "43% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/ksdjma80/headphone/a/q/z/airdopes-131-boat-original-imag5yzanjduekzn.jpeg?q=70",
+          "brand": "boAt",
+          "name": "boAt Airdopes 131",
+          "price":  1030,
+          "strikedPrice":1579 ,
+          "offer": "29% off" 
+      }, 
+      {
+          "image_url":"https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/6/w/q/-original-imaghwgjq3p3dfbz.jpeg?q=70",
+          "brand": "boAt",
+          "name": "boAt Rockerz",
+          "price": 999 ,
+          "strikedPrice":1590 ,
+          "offer": "31% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/k7c88sw0/headphone/s/g/6/xiaomi-dual-driver-original-imafpht84fa7fxdj.jpeg?q=70",
+          "brand": "Mi",
+          "name": "Mi Dual Driver",
+          "price":  599,
+          "strikedPrice":999 ,
+          "offer": "43% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/kz7bcsw0/headphone/d/x/a/metallic-deep-bass-headphone-in-ear-casque-stereo-3-5mm-earphone-original-imagb9zmsdfhbr5k.jpeg?q=70",
+          "brand": "MI-STS",
+          "name": "MI-STS Metallic Deep",
+          "price": 367 ,
+          "strikedPrice":599 ,
+          "offer": "39% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/jsm3vrk0/smart-headphone/k/j/g/ns6-s6-bluetooth-neckband-headset-with-sports-running-headphone-original-imaemjzdsungh2yw.jpeg?q=70",
+          "brand": "APPLE",
+          "name": "APPLE EarPods",
+          "price": 5686 ,
+          "strikedPrice":9435 ,
+          "offer": "47% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/s/t/m/-original-imaghxgnjdgyghfw.jpeg?q=70",
+          "brand": "APPLE",
+          "name": "APPLE Airpods Pro",
+          "price": 8000 ,
+          "strikedPrice":16000 ,
+          "offer": "50% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/416/416/l4x2rgw0/headphone/u/z/f/ch-34-fire-30-hours-playtime-bluetooth-neckband-cihlex-original-imagfzxfazyrgqy8.jpeg?q=70",
+          "brand": "APPLE",
+          "name": "APPLE Airpods Pro",
+          "price": 9908 ,
+          "strikedPrice": 14678,
+          "offer": "31% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/k9vofbk0/headphone/7/u/q/e303a-oneplus-original-imafrkkxavhyajy4.jpeg?q=70",
+          "brand": "OnePlus",
+          "name": "OnePlus Bullets",
+          "price": 1250 ,
+          "strikedPrice":4569 ,
+          "offer": "67% off" 
+      } 
+     ],
+   "Sports":
+   [
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/kr2e3680/ball/a/9/0/380-420-22-5-kick-1-101smufb01-football-cosco-original-imag4xhfvcdgn4gz.jpeg?q=70",
+          "brand": "COSCO",
+          "name": "COSCO Kick Football",
+          "price": 678 ,
+          "strikedPrice":987 ,
+          "offer": "37% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/kiqbma80-0/ball/m/6/i/400-22-country-colour-italia-5-1-1360it-football-nivia-original-imafyg63msba2fxz.jpeg?q=70",
+          "brand": "NIVIA",
+          "name": " Country Colour (Italia) Football ",
+          "price":576  ,
+          "strikedPrice":908 ,
+          "offer": "30% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/jucz98w0/ball/q/u/9/150-170-standard-7-1-adrenex-maestro-leather-ball-white-1-original-imaffgcycdpyxdkq.jpeg?q=70",
+          "brand": "Adrenex",
+          "name": "Adrenex",
+          "price": 788 ,
+          "strikedPrice":989 ,
+          "offer": "10% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/kbv4fww0/bat/y/h/q/1-6-kookaburra-kahuna-full-size-poplar-willow-cricket-bat-1106-original-imaft3r7hqbmhj46.jpeg?q=70",
+          "brand": "ironspots",
+          "name": "ironspots",
+          "price": 1500 ,
+          "strikedPrice":4500 ,
+          "offer": "75% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/l58iaa80/sport-bag/o/a/i/cricket-bag-shoulder-straps-sports-cricket-kit-bag-for-2-bat-original-imagfy79yttqvugm.jpeg?q=70",
+          "brand": "Aurion Cricket Bag Shoulder ",
+          "name": "Aurion Cricket Bag Shoulder ",
+          "price": 3456 ,
+          "strikedPrice": 6789,
+          "offer": "50%" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/l1grgcw0/wicket/n/f/c/heavy-plastic-cricket-stumps-set-victory-original-imagdypet6gwcsuh.jpeg?q=70",
+          "brand": "VICTORY Heavy Plastic",
+          "name": "VICTORY Heavy Plastic",
+          "price": 3000 ,
+          "strikedPrice":6000 ,
+          "offer": "50% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/kdkkdjk0/shuttle/u/r/3/mavis-350-green-cap-6-75-nylon-yonex-slow-original-imafug3vnxye6skh.jpeg?q=70",
+          "brand": "YONEX MAVIS 350",
+          "name": "YONEX MAVIS 350",
+          "price": 500 ,
+          "strikedPrice":1000 ,
+          "offer": "50% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/jybvafk0/racquet/y/s/5/g3-8-89-cm-r501-strung-1-ad-br-6-2-90-badminton-racquet-adrenex-original-imafghzpz4pxmtwv.jpeg?q=70",
+          "brand": "Adrenex by Flipkart",
+          "name": "Adrenex by Flipkart",
+          "price":  900,
+          "strikedPrice":1000 ,
+          "offer": "10% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/612/612/kh6lg280/kit/b/2/5/2-double-shaft-badminton-racquet-with-10-pc-nylon-shuttle-0100-original-imafx94uzjahcpqz.jpeg?q=70",
+          "brand": "Monika Sports 2",
+          "name": "Monika Sports 2",
+          "price":  720,
+          "strikedPrice": 899,
+          "offer": "20% off" 
+      } 
+   ],
+   "Bag":[
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/l4fxh8w0/backpack/w/z/1/6-2992125984252-graf-27l-11-4173228346457-bpgrf27eblk-backpack-original-imagfc26yzxeyxb8.jpeg?q=50",
+          "brand": "SKYBAGS",
+          "name": "SKYBAGS",
+          "price": 1200,
+          "strikedPrice":2400 ,
+          "offer": "50% off" 
+      },
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/klv7ekw0/backpack/k/g/v/fizz-sch-bag-ff9-0-01-001-backpack-american-tourister-original-imagyw6hb3zsdacx.jpeg?q=50",
+          "brand": "AMERICAN TOURISTER",
+          "name": "AMERICAN TOURISTER",
+          "price":  1800,
+          "strikedPrice":2400 ,
+          "offer": "40% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/l27wtjk0/backpack/b/k/d/daypack-small-bags-backpack-for-daily-use-library-office-outdoor-original-imagdm57uh8ypdwb.jpeg?q=50",
+          "brand": "PROVOGUE",
+          "name": "PROVOGUE",
+          "price": 1000 ,
+          "strikedPrice":1500 ,
+          "offer": "30% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/l37mtu80/backpack/e/c/d/6-laptop-backpack-spacy-unisex-backpack-fits-upto-16-inches-original-imagedsgmuwfwghf.jpeg?q=50",
+          "brand": "WROGN",
+          "name": "WROGN",
+          "price": 1350 ,
+          "strikedPrice":2700 ,
+          "offer": "50% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/kydb3ww0/backpack/n/b/d/8-0-spacy-freeride-unisex-bag-with-rain-cover-laptop-office-original-imagam8u3hsgaubh.jpeg?q=50",
+          "brand": "PROVOGUE",
+          "name": "PROVOGUE",
+          "price":1345  ,
+          "strikedPrice": 2400,
+          "offer": "40% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/kmmcrrk0/backpack/d/9/7/spreeusb-19-casual-backpack-blue-spreeusb19cbblu-backpack-safari-original-imagfh3gmcqja3xq.jpeg?q=50",
+          "brand": "SAFARI",
+          "name": "SAFARI",
+          "price": 1235 ,
+          "strikedPrice":2346 ,
+          "offer": "55%" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/kzx1a4w0/bag/g/r/u/45-dark-blue-28-safwan-25-8-original-imagbtwfnbydnshw.jpeg?q=50",
+          "brand": "Safwan",
+          "name": "Safwan",
+          "price": 1250 ,
+          "strikedPrice":3456 ,
+          "offer": "65% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/ju79hu80/backpack/2/v/j/spacy-mel-12144-backpack-wildcraft-original-imaffdnvpbuewbaf.jpeg?q=50",
+          "brand": "Wildcraft",
+          "name": "Wildcraft",
+          "price": 1234 ,
+          "strikedPrice": 2999,
+          "offer": "27% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/ku1k4280/suitcase/a/m/x/kam-triprism-sp-hk3-2-09-001-cabin-luggage-kamiliant-by-american-original-imag793tsjagmwse.jpeg?q=50",
+          "brand": "American Tourister",
+          "name": "Luggage",
+          "price": 4567 ,
+          "strikedPrice":12453 ,
+          "offer": "60% off" 
+      },
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/kqmo8sw0/suitcase/e/h/r/kam-triprism-sp-hk3-0-00-003-check-in-luggage-kamiliant-by-original-imag4hhuqwesuh8e.jpeg?q=50",
+          "brand": "American Tourister",
+          "name": "Luggage",
+          "price": 2390 ,
+          "strikedPrice": 5678,
+          "offer": "50% off" 
+      }, 
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/k8uiz680/suitcase/u/m/h/stlth-55-65-77-4w-silver-stealt3p4wsl-cabin-check-in-luggage-original-imafqr7ffhgjxxqb.jpeg?q=50",
+          "brand": "SAFARI",
+          "name": "Luggage",
+          "price": 2799 ,
+          "strikedPrice":9890 ,
+          "offer": "71% off" 
+      },  
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/l5iid8w0/shopsy-suitcase/z/w/l/photon-strolly-75-360-mab-28-inches-above-check-in-luggage-original-imag57yhbhhwbjzu.jpeg?q=50",
+          "brand": "ARISTOCRAT",
+          "name": "Luggage",
+          "price": 2399 ,
+          "strikedPrice":11050 ,
+          "offer": "78% off" 
+      },
+      {
+          "image_url": "https://rukminim1.flixcart.com/image/309/371/kqfj1jk0/suitcase/y/i/r/triprism-spinner-2-pc-set-aqua-hk3-2-11-005-cabin-check-in-original-imag4gyjzshkkf4w.jpeg?q=50",
+          "brand": "Kamiliant ",
+          "name": "Luggage",
+          "price": 3499 ,
+          "strikedPrice":17475 ,
+          "offer": "79% off" 
+      }    
+   ]
+  }
+}
